@@ -40,7 +40,7 @@
 | パーツ | 型番 | 状態 | 備考 |
 |--------|------|------|------|
 | ATXケース | SilverStone RM42-502（4U ATXラック） | 手持ち | レトロPC(retro-forge)ケースとして使用決定 |
-| ATX電源 | Seasonic PRIME TX 750W | 手持ち | 20+4pin分離式→20pin接続可。440BX互換確認済み |
+| ATX電源 | Seasonic PRIME TX 850W | 手持ち | 20+4pin分離式→20pin接続可。440BX互換確認済み |
 | モニタ（CRT） | Sony KV-29DRX5（ブラウン管TV） | 手持ち | D3端子（480i/480p/1080i）。将来OSSC Pro+Extra AV Out経由で接続 |
 | モニタ（液晶） | 三菱 RDT231WM | 手持ち | 15kHz/31kHz両対応。メイン映像出力先。G200 VGA直結 |
 | OSSC Pro | Open Source Scan Converter Pro | 手持ち | VGA(31kHz)入力対応。HDMIキャプチャ経由でメイン機液晶に表示 |
@@ -52,7 +52,7 @@
 - **24pin→20pin**: 4pin部分を外して20pinで接続。物理干渉なし
 - **-5Vレール**: 非搭載。ISAカード非使用なら問題なし
 - **P3B-F使用時**: BIOS Hardware Monitor → -5V → [Ignore] でエラー抑制可能
-- **消費電力**: PII構成で約50W。750Wは過剰だが害なし。低負荷時ファンレス動作で静音メリット
+- **消費電力**: PII構成で約50W。850Wは過剰だが害なし。低負荷時ファンレス動作で静音メリット
 
 ### 映像出力方針（cmd_297最終決定）
 

@@ -239,10 +239,10 @@
 | パーツ | 所有品 | 440BX互換性 |
 |--------|--------|-------------|
 | ATXケース | SilverStone RM42-502（4U ATXラック） | ✅ ATX/E-ATX対応。P2B/P3B-F搭載可能 |
-| ATX電源 | Seasonic PRIME TX 750W | ✅ 20+4pin分離式→20pin接続可。-5V非搭載だがPCI/AGP構成では不要 |
+| ATX電源 | Seasonic PRIME TX 850W | ✅ 20+4pin分離式→20pin接続可。-5V非搭載だがPCI/AGP構成では不要 |
 | モニタ | Sony KV-29DRX5（ブラウン管TV）+ VGA→コンポーネント変換アダプタ | ✅ VGA出力をコンポーネント変換で接続 |
 
-#### Seasonic PRIME TX 750W 互換性詳細
+#### Seasonic PRIME TX 850W 互換性詳細
 - **24pin→20pin**: 20+4pin分離式コネクタ。4pin部分を外して20pinで接続可能。物理干渉なし
 - **-5Vレール**: 非搭載。ただし殿の構成（SB Live!=PCI、G200=AGP）は全て-5V不要。ISAカード非使用なら問題なし
 - **P3B-F BIOS**: Hardware Monitor → -5V → [Ignore] で-5Vエラー抑制可能
@@ -292,7 +292,7 @@
 | 必須パーツ合計 | ¥5,844〜¥14,234 |
 | 推奨パーツ込み | ¥6,744〜¥16,834 |
 
-*ケース(RM42-502)・電源(Seasonic PRIME TX 750W)・モニタ(KV-29DRX5)は殿所有品を使用。*
+*ケース(RM42-502)・電源(Seasonic PRIME TX 850W)・モニタ(KV-29DRX5)は殿所有品を使用。*
 
 ---
 

@@ -161,7 +161,7 @@ IDE(ATAPI)光学ドライブの新品製造は2013年頃に完全終了。現在
 | FDD | 1 (FDD用小型4pin。Molex→FDD変換ケーブルが必要な場合あり) |
 | **合計** | **2〜3本** |
 
-> Seasonic PRIME-TX 750W使用: Molex/SATA電源ケーブル付属。FDD用4pinは別途変換アダプタが必要な場合がある。
+> Seasonic PRIME-TX 850W使用: Molex/SATA電源ケーブル付属。FDD用4pinは別途変換アダプタが必要な場合がある。
 
 ---
 
